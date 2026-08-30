@@ -47,7 +47,7 @@ import os
 
 USER_DATA_DIR = os.path.abspath("user_data")
 
-BOT_TOKEN = "8765921547:AAHk6UB1U_g9QCpiXtvXPgrk7tkKhRSrr1s"
+BOT_TOKEN = "8765921547:AAHyiRZA4r4k0dvMfX9YZClxNs0pChRh3b4"
 ADMIN_ID = 6891530912
 BOT_USERNAME = "@hostiing_maa_bot"
 CONTACT_USERNAME = "@mouhamed_ma"
