@@ -20,7 +20,8 @@ import base64
 from datetime import datetime, timedelta
 from typing import Optional, Dict, Any, Tuple, List, Set
 from logging.handlers import RotatingFileHandler
-
+from dotenv import load_dotenv
+load_dotenv()
 import telebot
 from telebot import types
 from telebot.apihelper import ApiTelegramException
