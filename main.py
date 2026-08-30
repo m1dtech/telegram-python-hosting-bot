@@ -43,13 +43,16 @@ logger = logging.getLogger(__name__)
 
 # ===================== الإعدادات العامة =====================
 USER_DATA_DIR = os.path.abspath("user_data")
-BOT_TOKEN = os.environ["BOT_TOKEN"]
-ADMIN_ID = int(os.environ["ADMIN_ID"])
-BOT_USERNAME = os.environ["BOT_USERNAME"]
-CONTACT_USERNAME = os.environ["CONTACT_USERNAME"]
-BACKUP_CHANNEL = os.environ["BACKUP_CHANNEL"]
-VIP_CHANNEL_ID = int(os.environ["VIP_CHANNEL_ID"])
+import os
 
+USER_DATA_DIR = os.path.abspath("user_data")
+
+BOT_TOKEN = "8765921547:AAHk6UB1U_g9QCpiXtvXPgrk7tkKhRSrr1s"
+ADMIN_ID = 6891530912
+BOT_USERNAME = "@hostiing_maa_bot"
+CONTACT_USERNAME = "@mouhamed_ma"
+BACKUP_CHANNEL = "@llslsksmndndjdjdjdjxh"
+VIP_CHANNEL_ID = -1003834398564
 DB_FILE = "bot_database.json"
 UPLOADS_DIR = "uploads"
 LOGS_DIR = "logs"
