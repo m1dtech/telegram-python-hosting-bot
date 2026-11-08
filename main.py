@@ -47,11 +47,11 @@ import os
 
 USER_DATA_DIR = os.path.abspath("user_data")
 
-BOT_TOKEN = "8765921547:AAHyiRZA4r4k0dvMfX9YZClxNs0pChRh3b4"
+BOT_TOKEN = "8765921547:AAE02jpNQPnLnd524h6YUAhuyVuP137kCKs"
 ADMIN_ID = 6891530912
 BOT_USERNAME = "@hostiing_maa_bot"
 CONTACT_USERNAME = "@mouhamed_ma"
-BACKUP_CHANNEL = "@llslsksmndndjdjdjdjxh"
+BACKUP_CHANNEL = "@mouhajejfjdjdjjdjdjdjdjdj"
 VIP_CHANNEL_ID = -1003834398564
 DB_FILE = "bot_database.json"
 UPLOADS_DIR = "uploads"
